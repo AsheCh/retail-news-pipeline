@@ -1,0 +1,18 @@
+# 憑證
+.env
+credentials.json
+token.pickle
+
+# 執行產物（每週由爬蟲／策展產生，不進版控）
+reports/
+summary/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# macOS
+.DS_Store

@@ -1,0 +1,425 @@
+{
+  "generated": "2026-10-26T20:47:38.171370",
+  "articles": [
+    {
+      "title": "美國肯德基分手百事、轉投可口可樂懷抱！40年老交情，為何留不住一杯汽水？",
+      "url": "https://www.bnext.com.tw/article/92781/kfc-pepsi-coca-cola-switch",
+      "date": null,
+      "date_str": "—",
+      "source": "數位時代",
+      "summary": ""
+    },
+    {
+      "title": "2026 Meet Taipei 11/19登場！YouTube共同創辦人陳士駿、簡立峰領軍，23國逾140家新創齊聚台北",
+      "url": "https://www.bnext.com.tw/article/92744/2026_meet_taipei_comming_soon",
+      "date": null,
+      "date_str": "—",
+      "source": "數位時代",
+      "summary": ""
+    },
+    {
+      "title": "煙花颱風生成！第30號颱風最新動態、路徑預測，會影響台灣嗎？",
+      "url": "https://fc.bnext.com.tw/articles/view/5007",
+      "date": null,
+      "date_str": "—",
+      "source": "未來商務",
+      "summary": ""
+    },
+    {
+      "title": "AI 攻擊工具現蹤台灣電商！LiteLLM、Railway 也傳入侵，憑證與權杖管理為何成資安破口？",
+      "url": "https://fc.bnext.com.tw/articles/view/5004",
+      "date": null,
+      "date_str": "—",
+      "source": "未來商務",
+      "summary": ""
+    },
+    {
+      "title": "喝酒多喝水就不怕宿醉？日本研究破解常見迷思　真正關鍵可能是少喝、慢喝",
+      "url": "https://www.foodnext.net/column/columnist/paper/6471207988",
+      "date": "2026/10/24",
+      "date_str": "2026-10-24",
+      "source": "食力",
+      "summary": "喝酒時穿插喝水，常被視為預防宿醉的實用方法，但這個流傳已久的習慣真的有效嗎？日本大分大學與三和酒類研究團隊發表最新研究，發現飲酒時額外喝水，並未顯著降低隔天的頭痛、噁心等宿醉症狀。研究也指出，配水可能透過放慢飲酒速度、減少酒精攝取量間接發揮作用，真正關鍵仍是控制飲酒量。"
+    },
+    {
+      "title": "桑椹、桑葉如何影響腸道健康？波蘭研究揭多酚與多醣組合的代謝潛力",
+      "url": "https://www.foodnext.net/life/health2/paper/6971206033",
+      "date": "2026/10/22",
+      "date_str": "2026-10-22",
+      "source": "食力",
+      "summary": "桑椹、桑葉可能不只提供營養，還與腸道菌相及代謝健康有關！波蘭弗羅茨瓦夫醫科大學研究回顧發現，桑樹中的多酚、多醣等成分，可能影響腸道菌群與短鏈脂肪酸生成；白桑果實多酚搭配多醣，在高脂飲食小鼠實驗中呈現較佳效果。不過，目前證據仍以動物及體外研究為主，能否應用於人體，仍待臨床試驗確認。"
+    },
+    {
+      "title": "【英特爾「機器人準備度差距」報告】邊緣 AI 算力是自動化規模的後盾，專用型 AMR 與工業手臂是產出翻倍主力",
+      "url": "https://techorange.com/2026/10/24/robotics-readiness-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "date": [
+        2026,
+        10,
+        23,
+        22,
+        29,
+        0,
+        4,
+        296,
+        0
+      ],
+      "date_str": "2026-10-23",
+      "source": "科技報橘",
+      "summary": "英特爾（Intel）發布《機器人準備度差距報告》（The Robotics Readiness Gap Report），研究深入調查全球 800 位來自美國、中國、德國、日本、英國與韓國的企業高管、資訊科技（IT）主管，以及機器人專家；涵蓋製造業、零售業、醫療保健、國防與智慧城市等五大重要產業。 報告指出，過去大家印象中的機器人，大多是固定在工廠某個位置、只能重複做同一種動作的傳統自動化機械；但現在結合了生成式 AI 與感測技術後，機器人正快速演變為具備現場感測、獨立思考與隨機應變能力的「實體 AI（Physical AI）」系統。 簡單來說，實體 AI 就是讓 AI 不再只是住在電腦螢幕裡的"
+    },
+    {
+      "title": "Amazon 擋 Muse、Walmart 卻為 AI 代理「開窗」：可設定消費上限、卡號不交給代理",
+      "url": "https://techorange.com/2026/10/22/walmart-agent-gateway-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "date": [
+        2026,
+        10,
+        22,
+        7,
+        20,
+        17,
+        3,
+        295,
+        0
+      ],
+      "date_str": "2026-10-22",
+      "source": "科技報橘",
+      "summary": "Walmart 於美國時間 10 月 21 日宣布推出「代理閘道」（Walmart Agent Gateway），讓消費者用自己選擇的 AI 代理，在 Walmart 與旗下倉儲量販店 Sam’s Club 購物，並由顧客控制每個代理能做什麼。就在上個月，最大競爭對手 Amazon 才把 Meta 的 AI 代理 Muse 擋在網站之外。 AI 代理（AI agent）是能替使用者執行任務的 AI 系統。當它開始替消費者逛網站、下單付款，零售平台也面臨選擇：要把代理擋在門外，還是開門讓它進來？如果選擇開門，又要怎麼確保代理只做顧客想做的事？ Walmart 推「代理閘道」：AI 代理透過 MC"
+    },
+    {
+      "title": "麥味登沒寫在價目表上的服務？少掉的25元：店長埋藏超過一年的祕密",
+      "url": "https://www.gvm.com.tw/article/133910",
+      "date": null,
+      "date_str": "—",
+      "source": "遠見雜誌",
+      "summary": ""
+    },
+    {
+      "title": "「東方底特律」的轉型考驗！向中國電動車開大門，泰國汽車業付出代價",
+      "url": "https://www.gvm.com.tw/article/133998",
+      "date": null,
+      "date_str": "—",
+      "source": "遠見雜誌",
+      "summary": ""
+    },
+    {
+      "title": "1年遺產NT$1.32兆！臺灣正進入一波規模驚人的「大繼承潮」 #大繼承世代 #傳承 #Shorts",
+      "url": "https://www.youtube.com/shorts/alFtD2TyLl4",
+      "date": [
+        2026,
+        10,
+        26,
+        6,
+        0,
+        27,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "商周 YouTube",
+      "summary": "遺產總額一年超過NT$1.32兆，臺灣正進入一波規模驚人的「大繼承潮」！\n\n第一代花了一輩子，把財富推到人生的「天花板」；對第二代來說，卻是人生起步的「地板」。上一代可能會想，我已經把最辛苦的路走完，你可以踩著基礎更往上走；但對下一代來說，正因為基礎已經打好了，反而有機會走不同的路。\n \n如果是你，你希望自己累積一輩子的財富，替下一代創造什麼樣的「富足人生」？👇\nhttps://www.youtube.com/watch?v=2bPcNVQBOyo\n\n【全財富理財規劃】\n從退休、醫療、家庭責任、子女教育金、夢想金到財富傳承，看清不同人生階段的資金需求，打造「活、留、存」的財富金三角：\n🔗htt"
+    },
+    {
+      "title": "蘇媽加入搶單大作戰，台積電明年營收衝八兆？#shorts #商業周刊 #周小姐Lisa #AI #台積電 #蘇姿丰 #超微",
+      "url": "https://www.youtube.com/shorts/Tz7i80iQqiY",
+      "date": [
+        2026,
+        10,
+        23,
+        12,
+        0,
+        8,
+        4,
+        296,
+        0
+      ],
+      "date_str": "2026-10-23",
+      "source": "商周 YouTube",
+      "summary": ""
+    },
+    {
+      "title": "大阪屋ショップ「日進店」が好スタート 名古屋出店見据えた旗艦店",
+      "url": "https://shokuhin.net/158978/2026/10/26/ryutu/kouri/",
+      "date": [
+        2026,
+        10,
+        26,
+        1,
+        1,
+        41,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "食品新聞",
+      "summary": "北陸を地盤とする食品スーパーの大阪屋ショップが10月2日、愛知県日進市赤池町に新店「日進店」を出店した。 　北陸の新鮮な魚やコメ、日本酒をはじめ名古屋めしも豊富に揃えることで消費者の心を掴み好スタートを切っている。当初 […]\nソース"
+    },
+    {
+      "title": "ライフ、川崎の看護大学生とコラボ弁当 産学官連携で健康的な食環境を考える",
+      "url": "https://shokuhin.net/159011/2026/10/23/ryutu/kouri/",
+      "date": [
+        2026,
+        10,
+        23,
+        5,
+        59,
+        43,
+        4,
+        296,
+        0
+      ],
+      "date_str": "2026-10-23",
+      "source": "食品新聞",
+      "summary": "ライフコーポレーションは10月22日、川崎市立看護大学の学生とコラボレーションしたお弁当をライフ川崎塚越店（神奈川県川崎市）で販売した。テーマは「お弁当を通じた健康的な食環境づくり」。メニューを考案した学生らが店頭に立 […]\nソース"
+    },
+    {
+      "title": "한국식품산업협회, 영양학회 추계학술대회서 감사패…서울대 송윤주 교수에 ‘학술상’ 수여",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201496",
+      "date": [
+        2026,
+        10,
+        26,
+        17,
+        23,
+        56,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "식품음료신문",
+      "summary": "한국식품산업협회가 국내 식품영양 분야의 학술 발전과 국민건강 증진에 기여한 공로로 학회 감사패를 받는 한편, 우수 연구자에게 협회 학술상을 수여하며 산학 협력 강화에 나섰다.한국식품산업협회(회장 박진선, 이하 협회)는 23일 서울 용산구 서울드래곤시티호텔에서 개최된 ‘2026년 한국식품영양학회 추계 국제학술대회’에서 감사패를 수상했다고 밝혔다.협회는 한국인의 식생활 개선과 만성질환 예방을 위한 영양관리, 영양소의 기능성 규명 등 선도적 연구를 통해 국민건강 증진에 기여한 우수 연구자를 격려하고자 ‘제4회 한국식품산업협회 학술상’을"
+    },
+    {
+      "title": "생산량 24% 줄 때 판매액 48% 뛰었다…양산빵 ‘원가 쇼크·소매 역성장’ 이중고",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201491",
+      "date": [
+        2026,
+        10,
+        26,
+        15,
+        25,
+        0,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "식품음료신문",
+      "summary": "국내 양산빵 제조업계가 생산량과 판매 물량이 동반 감소하는 가운데 제품 단가 인상으로 매출 외형만 늘어나는 심각한 ‘물량 축소·단가 상승’ 디커플링(탈동조화) 현상에 직면했다. 원자재 가격 급등으로 인한 출고가 인상이 누적돼 판매액은 5조원을 넘어섰으나, 소비 침체와 맞물려 소매시장 규모는 3년 만에 다시 1조원 밑으로 떨어졌다.농림축산식품부와 한국농수산식품유통공사(aT)가 발간한 ‘2026 가공식품 세분시장 현황조사(양산빵 편)’에 따르면 2025년 국내 양산빵 생산량은 73만739톤으로 전년(79만2438톤) 대비 7.8% 감소"
+    },
+    {
+      "title": "AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
+      "date": [
+        2026,
+        10,
+        26,
+        4,
+        0,
+        0,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "ITmedia",
+      "summary": "建設会社社長という立場から、還暦を契機に介護事業を“起業”した。「このまま人生を終えていいのか」と始まった第二の人生を突き進み、今は第三の人生の幕を開けつつある。新しいことへのアンテナは敏感で、実行に移すスピードも変わらない。（聞き手　小川記代子）"
+    },
+    {
+      "title": "5000円のお見舞金で幕引き？　GMO熊谷社長「そうではない」──不正アクセスの真相と“後手の悔恨”【ブログ全文】",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/26/news049.html",
+      "date": [
+        2026,
+        10,
+        26,
+        3,
+        2,
+        0,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "ITmedia",
+      "summary": "外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が10月25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「初動の誠意」だと説明し、幕引きを否定。インターネットが「壊れかけている」として「官民連携」で守ろうと強く訴えた。"
+    },
+    {
+      "title": "KSP-POS マーケットトレンドレポート「ヨーグルト」",
+      "url": "https://diamond-rm.net/retaildata/561875/",
+      "date": [
+        2026,
+        10,
+        26,
+        8,
+        20,
+        2,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "Diamond Chain Store",
+      "summary": "高たんぱくヨーグルトは、直近5年間で金額178％、数量150％伸長している。 2026年も8月時点で毎月前年比100％以上の伸長となっている。 アイテムランキングでは大容量商品が大きな伸長を記録してい... 続きを読む ...続きを読む"
+    },
+    {
+      "title": "カンリー、釣具のキャスティングに「カンリーローカル在庫」を導入 店舗在庫をGoogle検索™などに表示",
+      "url": "https://diamond-rm.net/flash_news/561846/",
+      "date": [
+        2026,
+        10,
+        26,
+        6,
+        56,
+        43,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "Diamond Chain Store",
+      "summary": "（カンリー　ニュースリリースより 　店舗のDXと... 続きを読む →続きを読む"
+    },
+    {
+      "title": "エースコック人気シリーズ「スーパーカップ超大盛り」が『セブンプレミアム』から初登場！麺120g“超大盛り”仕様の「もやしみそ」が新発売",
+      "url": "https://prtimes.jp/main/html/rd/p/000001290.000155396.html",
+      "date": "2026-10-26T13:00:00+0900",
+      "date_str": "2026-10-26",
+      "source": "PR TIMES",
+      "summary": ""
+    },
+    {
+      "title": "長野県・信州のりんごでつくる　秋の一品『信州飯綱町産ブラムリーのアップルパイ』を期間限定発売",
+      "url": "https://prtimes.jp/main/html/rd/p/000001299.000155396.html",
+      "date": "2026-10-26T10:30:00+0900",
+      "date_str": "2026-10-26",
+      "source": "PR TIMES",
+      "summary": ""
+    },
+    {
+      "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
+      "url": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
+      "date": [
+        2026,
+        10,
+        26,
+        9,
+        0,
+        0,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "Retail Dive",
+      "summary": "With the holidays approaching, check these signals to assess your AI readiness (and check it twice)."
+    },
+    {
+      "title": "Keeping pace with Walmart Marketplace: the work behind Base.com’s Innovation Award",
+      "url": "https://www.retaildive.com/spons/keeping-pace-with-walmart-marketplace-the-work-behind-basecoms-innovatio/833294/",
+      "date": [
+        2026,
+        10,
+        26,
+        9,
+        0,
+        0,
+        0,
+        299,
+        0
+      ],
+      "date_str": "2026-10-26",
+      "source": "Retail Dive",
+      "summary": "Base.com wins the Walmart Marketplace Innovation Award at Let's Grow 2026."
+    },
+    {
+      "title": "聯準會褐皮書揭美物價壓力加劇　10月底升息機率升至37%",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214348",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 國際流通",
+      "summary": ""
+    },
+    {
+      "title": "迅銷集團獲利連續5年創新高",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214333",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 國際流通",
+      "summary": ""
+    },
+    {
+      "title": "分手 40 年老夥伴！美國肯德基棄百事 改供可口可樂 汽水大戰版圖生變",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214351",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 產業要聞",
+      "summary": ""
+    },
+    {
+      "title": "外送平台併購卡關！公平會否決 Grab、foodpanda 結合案",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214362",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 產業要聞",
+      "summary": ""
+    },
+    {
+      "title": "Qoo10開設只提供試用品的常設店　每人最多可領7項",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214335",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 日經流通",
+      "summary": ""
+    },
+    {
+      "title": "哈根達斯也能用喝的！ 袋裝冰淇淋融化後依然美味",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214336",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 日經流通",
+      "summary": ""
+    },
+    {
+      "title": "新光三越天母店續留受關注　朝商圈共榮方向前進",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214341",
+      "date": "2026/10/20",
+      "date_str": "2026-10-20",
+      "source": "TCFA 零售情報",
+      "summary": ""
+    },
+    {
+      "title": "拉亞漢堡最新聯名太驚喜！三國武將貓咪頭套萌炸　首波盲盒搶先看",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214363",
+      "date": "2026/10/21",
+      "date_str": "2026-10-21",
+      "source": "TCFA 流行快訊",
+      "summary": ""
+    },
+    {
+      "title": "堤諾「外帶比薩買1送1」10月21日快閃　全台10店限定",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214343",
+      "date": "2026/10/20",
+      "date_str": "2026-10-20",
+      "source": "TCFA 流行快訊",
+      "summary": ""
+    },
+    {
+      "title": "石二鍋也漲了！鼎泰豐、鬍鬚張…今年這些連鎖餐飲都變貴",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214340",
+      "date": "2026/10/20",
+      "date_str": "2026-10-20",
+      "source": "TCFA 餐飲情報",
+      "summary": ""
+    },
+    {
+      "title": "旅宿業中高齡人力指引升級 促善用部分工時解缺工",
+      "url": "https://www.tcfa.org.tw/announce_detail.asp?id=9214347",
+      "date": "2026/10/20",
+      "date_str": "2026-10-20",
+      "source": "TCFA 餐飲情報",
+      "summary": ""
+    }
+  ]
+}
